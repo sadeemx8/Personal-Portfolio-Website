@@ -1,50 +1,62 @@
-# Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-## Project Overview
+##  Project Overview
 
-This project is a personal portfolio website created to present my academic background, technical skills, interests, and contact information as a Computer Engineering student.
+This project is a personal portfolio website created to introduce myself as a Computer Engineering student. The website provides a simple and organized presentation of my personal information, background, and contact details.
 
-The website was built using HTML, CSS, and JavaScript, then uploaded to GitHub and published using GitHub Pages.
+---
 
-## Website Sections
+## ✨ Website Content
 
 The website includes:
 
-- Home section with a personal introduction
-- About Me section
-- Academic background
-- Technical skills
-- Interests
-- Contact and social media links
+- 👩‍💻 Personal name and title
+- 📝 About Me section
+- 📧 Contact information
+- 🐙 GitHub profile link
+- 💼 LinkedIn profile link
+- 🖼️ Illustration image
+- 👋 "Say Hello" button
 
-## Project Development
+---
 
-I created the website structure and content using index.html.  
-I used style.css to design the website, organize the sections, customize the colors, fonts, spacing, images, navigation bar, and buttons.  
-I used script.js to add interactivity and improve the user experience.
+## 🛠️ Project Development
 
-I also added images to support the website content and tested the website to make sure that the design, navigation links, images, and file paths worked correctly.
+The website was built using HTML to create the page structure and content.
 
-Finally, I uploaded all project files to a GitHub repository and used GitHub Pages to make the website available online.
+CSS was used to design the layout, customize the colors, fonts, buttons, spacing, and overall appearance of the website.
 
-## Technologies Used
+JavaScript was added to provide basic interactivity and improve the user experience.
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub
-- GitHub Pages
+The website was tested to ensure that all links, images, and page elements work correctly.
 
-## Project Files
+---
 
-- index.html – Website structure and content
-- style.css – Website design and styling
-- script.js – Website interactivity
-- images – Images used in the website
-- README.md – Project documentation
+## 💻 Technologies Used
 
-## Author
+-  HTML5
+-  CSS3
+-  JavaScript
 
-Sadeem Talal  
+---
+
+## 📁 Project Files
+
+- index.html – Website structure and content.
+- style.css – Website styling and layout.
+- script.js – Website functionality.
+- images – Contains the images used in the website.
+
+---
+
+## 🎯 Project Outcome
+
+This project demonstrates my ability to create a clean and organized personal portfolio website using HTML, CSS, and JavaScript. It also helped me improve my web development skills by designing a complete webpage with a responsive and user-friendly layout.
+
+---
+
+## 👩‍💻 Author
+
+Eng.Sadeem Talal Alharthi
 Computer Engineering Student  
 Taif University
